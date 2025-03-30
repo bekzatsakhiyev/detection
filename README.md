@@ -18,7 +18,7 @@ This project utilizes a **neural network** to classify applications based on the
 
 ## 🛠 Technologies Used
 🔹 **Python**  
-🔹 **NumPy, Pandas** (data manipulation)  
-🔹 **Scikit-learn** (data preprocessing, train-test split)  
-🔹 **TensorFlow / Keras** (deep learning model)  
-🔹 **Matplotlib** (data visualization)  
+🔹 **NumPy, Pandas** 
+🔹 **Scikit-learn** 
+🔹 **TensorFlow / Keras** 
+🔹 **Matplotlib** 
